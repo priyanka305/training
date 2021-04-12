@@ -25,7 +25,7 @@
             <value name="field_password">false</value>
           </record>
           <value name="is_public">false</value>
-          <value name="field_name">orders</value>
+          <value name="field_name">ordersfashionsitedocs.docs.v1:orders</value>
           <value name="field_type">recref</value>
           <value name="field_dim">0</value>
           <value name="wrapper_type">IData</value>
