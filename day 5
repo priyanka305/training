@@ -1,0 +1,5 @@
+created folder with path: C:\Users\chait\Documents\kraft\training\sample\BrandXYZ\hyd\13042021(datetime)
+created schedular for path showing error because pattern:[5237]2021-04-13 14:26:54 IST [ISS.0137.0018E] Scheduler: Exception while invoking 'sample:schedularexample': [ISS.0086.9018] 'pattern' is a required input
+creating for every lhr:b6d91ca0-9b6b-11eb-92f0-000000000000	sample:schedularexample	Training demo	N/A	[ISS.0086.9018] 'pattern' is a required input	Administrator	Any Server	3600.0	259.5	Scheduled Task StatusActive	Delete the scheduled task
+creating folder with address location:C:\wMServiceDesigner\IntegrationServer\packages\WmPublic\config(open with editnotepad++)
+creating all files with .json extension:C:\Users\chait\Documents\kraft\training\sample\BrandXYZ\%AllOrders\AllOrders[0]\orderId%_%AllOrders\AllOrders[0]\shippingDate%_%AllOrders\AllOrders[0]
