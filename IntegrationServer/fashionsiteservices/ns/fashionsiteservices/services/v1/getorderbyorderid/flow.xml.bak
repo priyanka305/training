@@ -150,6 +150,9 @@
 
   <!-- nodes -->
 
+<MAPCOPY FROM="/orderid;1;0" TO="/key;3;0">
+</MAPCOPY>
+
 <MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/cacheManagerName;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
@@ -178,14 +181,11 @@
 </DATA>
 </MAPSET>
 
-<MAPCOPY FROM="/orderid;1;0" TO="/key;3;0">
-</MAPCOPY>
-
 <MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/cacheName;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">Training </value>
+  <value name="xml">Training</value>
   <record name="type" javaclass="com.wm.util.Values">
     <value name="node_type">unknown</value>
     <value name="node_subtype">unknown</value>
