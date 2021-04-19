@@ -685,10 +685,6 @@
 <MAPDELETE FIELD="/fileName;1;0">
 </MAPDELETE>
 </MAP>
-
-<INVOKE TIMEOUT="" SERVICE="pub.date:getCurrentDate" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
-</INVOKE>
 </LOOP>
 </SEQUENCE>
 
